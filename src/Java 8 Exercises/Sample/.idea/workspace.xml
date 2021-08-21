@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14cc8c7a-5455-4bab-89bb-947efbead07d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../001-InterfaceEnhancement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../001-InterfaceEnhancement/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="14cc8c7a-5455-4bab-89bb-947efbead07d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../001-InterfaceEnhancement" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -51,6 +49,7 @@
       <updated>1629560043440</updated>
       <workItem from="1629560044892" duration="2576000" />
       <workItem from="1629563035847" duration="753000" />
+      <workItem from="1629564013103" duration="56000" />
     </task>
     <servers />
   </component>
