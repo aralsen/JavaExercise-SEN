@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14cc8c7a-5455-4bab-89bb-947efbead07d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/functionalinterface/InterfaceJava7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/functionalinterface/InterfaceJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/calculator/AddIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/calculator/CalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/calculator/MultiplyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/thread/ThreadEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/thread/ThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/vehicle/VehicleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/vehicle/VehicleLambdaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/vehicle/VehicleMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sample/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +45,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sample" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.MainInterface">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.defaultmethod.Car" />
+  <component name="RunManager" selected="Application.ThreadMain">
+    <configuration name="CalculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.lambda.calculator.CalculatorApp" />
       <module name="InterfaceEnhancement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.defaultmethod.*" />
+          <option name="PATTERN" value="sen.aral.interfaceenhancement.lambda.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +77,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticMethodDemoClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.staticmethod.StaticMethodDemoClass" />
+    <configuration name="ThreadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.lambda.thread.ThreadMain" />
       <module name="InterfaceEnhancement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.staticmethod.*" />
+          <option name="PATTERN" value="sen.aral.interfaceenhancement.lambda.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleLambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.lambda.vehicle.VehicleLambdaMain" />
+      <module name="InterfaceEnhancement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sen.aral.interfaceenhancement.lambda.vehicle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.lambda.vehicle.VehicleMain" />
+      <module name="InterfaceEnhancement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sen.aral.interfaceenhancement.lambda.vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,9 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadMain" />
+        <item itemvalue="Application.CalculatorApp" />
+        <item itemvalue="Application.VehicleLambdaMain" />
+        <item itemvalue="Application.VehicleMain" />
         <item itemvalue="Application.MainInterface" />
-        <item itemvalue="Application.StaticMethodDemoClass" />
-        <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +137,7 @@
       <workItem from="1629560044892" duration="2576000" />
       <workItem from="1629562733187" duration="255000" />
       <workItem from="1629563026463" duration="6000" />
-      <workItem from="1629564081141" duration="1297000" />
+      <workItem from="1629564081141" duration="4018000" />
     </task>
     <servers />
   </component>
