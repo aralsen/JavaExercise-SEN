@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14cc8c7a-5455-4bab-89bb-947efbead07d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/calculator/AddIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/calculator/CalculatorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/calculator/MultiplyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/thread/ThreadEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/thread/ThreadMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/vehicle/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/vehicle/VehicleImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/vehicle/VehicleLambdaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/lambda/vehicle/VehicleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/Predicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/PredicateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/PredicateDemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/PredicateDemoMainJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/PredicateExampleIsEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/PredicateExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/tradeapp/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/tradeapp/Trading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +49,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.ThreadMain">
-    <configuration name="CalculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.lambda.calculator.CalculatorApp" />
+  <component name="RunManager" selected="Application.Trading">
+    <configuration name="PredicateDemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.predicate.PredicateDemoMain" />
       <module name="InterfaceEnhancement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.lambda.calculator.*" />
+          <option name="PATTERN" value="sen.aral.interfaceenhancement.predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.staticmethod.MainInterface" />
+    <configuration name="PredicateDemoMainJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.predicate.PredicateDemoMainJava8" />
       <module name="InterfaceEnhancement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.staticmethod.*" />
+          <option name="PATTERN" value="sen.aral.interfaceenhancement.predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.lambda.thread.ThreadMain" />
+    <configuration name="PredicateExampleIsEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.predicate.PredicateExampleIsEqual" />
       <module name="InterfaceEnhancement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.lambda.thread.*" />
+          <option name="PATTERN" value="sen.aral.interfaceenhancement.predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleLambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.lambda.vehicle.VehicleLambdaMain" />
+    <configuration name="PredicateExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.predicate.PredicateExamples" />
       <module name="InterfaceEnhancement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.lambda.vehicle.*" />
+          <option name="PATTERN" value="sen.aral.interfaceenhancement.predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.lambda.vehicle.VehicleMain" />
+    <configuration name="Trading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.predicate.tradeapp.Trading" />
       <module name="InterfaceEnhancement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.lambda.vehicle.*" />
+          <option name="PATTERN" value="sen.aral.interfaceenhancement.predicate.tradeapp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadMain" />
-        <item itemvalue="Application.CalculatorApp" />
-        <item itemvalue="Application.VehicleLambdaMain" />
-        <item itemvalue="Application.VehicleMain" />
-        <item itemvalue="Application.MainInterface" />
+        <item itemvalue="Application.Trading" />
+        <item itemvalue="Application.PredicateExampleIsEqual" />
+        <item itemvalue="Application.PredicateExamples" />
+        <item itemvalue="Application.PredicateDemoMainJava8" />
+        <item itemvalue="Application.PredicateDemoMain" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +136,7 @@
       <workItem from="1629560044892" duration="2576000" />
       <workItem from="1629562733187" duration="255000" />
       <workItem from="1629563026463" duration="6000" />
-      <workItem from="1629564081141" duration="4018000" />
+      <workItem from="1629564081141" duration="8437000" />
     </task>
     <servers />
   </component>
