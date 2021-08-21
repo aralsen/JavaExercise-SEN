@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14cc8c7a-5455-4bab-89bb-947efbead07d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../001-InterfaceEnhancement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../001-InterfaceEnhancement/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,58 +36,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunManager" selected="Application.MainInterface">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.defaultmethod.Car" />
-      <module name="InterfaceEnhancement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.defaultmethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.staticmethod.MainInterface" />
-      <module name="InterfaceEnhancement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.staticmethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticMethodDemoClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.staticmethod.StaticMethodDemoClass" />
-      <module name="InterfaceEnhancement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.staticmethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MainInterface" />
-        <item itemvalue="Application.StaticMethodDemoClass" />
-        <item itemvalue="Application.Car" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -98,8 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629560043440</updated>
       <workItem from="1629560044892" duration="2576000" />
-      <workItem from="1629562733187" duration="255000" />
-      <workItem from="1629563026463" duration="6000" />
+      <workItem from="1629563035847" duration="753000" />
     </task>
     <servers />
   </component>
