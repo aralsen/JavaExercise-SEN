@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14cc8c7a-5455-4bab-89bb-947efbead07d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/PredicateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/PredicateDemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/PredicateDemoMainJava8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/PredicateExampleIsEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/PredicateExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/tradeapp/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/predicate/tradeapp/Trading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/doublecolonoperator/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/doublecolonoperator/LambdaOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/doublecolonoperator/LambdaTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/interfaceenhancement/doublecolonoperator/OneMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -49,13 +45,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Trading">
-    <configuration name="PredicateDemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.predicate.PredicateDemoMain" />
+  <component name="RunManager" selected="Application.TwoMain">
+    <configuration name="CalculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.lambda.calculator.CalculatorApp" />
       <module name="InterfaceEnhancement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.predicate.*" />
+          <option name="PATTERN" value="sen.aral.interfaceenhancement.lambda.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateDemoMainJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.predicate.PredicateDemoMainJava8" />
+    <configuration name="OneMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.doublecolonoperator.OneMain" />
       <module name="InterfaceEnhancement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.predicate.*" />
+          <option name="PATTERN" value="sen.aral.interfaceenhancement.doublecolonoperator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,19 +74,6 @@
     </configuration>
     <configuration name="PredicateExampleIsEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.predicate.PredicateExampleIsEqual" />
-      <module name="InterfaceEnhancement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sen.aral.interfaceenhancement.predicate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PredicateExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.predicate.PredicateExamples" />
       <module name="InterfaceEnhancement" />
       <extension name="coverage">
         <pattern>
@@ -115,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.interfaceenhancement.doublecolonoperator.TwoMain" />
+      <module name="InterfaceEnhancement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sen.aral.interfaceenhancement.doublecolonoperator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoMain" />
+        <item itemvalue="Application.OneMain" />
+        <item itemvalue="Application.CalculatorApp" />
         <item itemvalue="Application.Trading" />
         <item itemvalue="Application.PredicateExampleIsEqual" />
-        <item itemvalue="Application.PredicateExamples" />
-        <item itemvalue="Application.PredicateDemoMainJava8" />
-        <item itemvalue="Application.PredicateDemoMain" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +132,8 @@
       <workItem from="1629560044892" duration="2576000" />
       <workItem from="1629562733187" duration="255000" />
       <workItem from="1629563026463" duration="6000" />
-      <workItem from="1629564081141" duration="8437000" />
+      <workItem from="1629564081141" duration="9636000" />
+      <workItem from="1629585726029" duration="929000" />
     </task>
     <servers />
   </component>
