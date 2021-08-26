@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe8e963-5cb9-4bc3-820b-db9af9b8c281" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/salesdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/OptionalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/ParallelStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/StreamAvgSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/StreamColonOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/StreamExtras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/StreamFileCaseStudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/StreamMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/StreamMapFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/StreamMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/StreamOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/StreamPeekSkip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/StreamReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/StreamSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/StreamToSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../001-InterfaceEnhancement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../001-InterfaceEnhancement/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sen/aral/stream/FlatMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +43,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../JavaApp2-SEN/src/Projects/GenericAppIntelliJ" />
   </component>
-  <component name="RunManager" selected="Application.StreamFileCaseStudy">
+  <component name="RunManager" selected="Application.FlatMap">
+    <configuration name="FlatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sen.aral.stream.FlatMap" />
+      <module name="002-StreamExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sen.aral.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ParallelStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sen.aral.stream.ParallelStream" />
       <module name="002-StreamExercise" />
@@ -99,19 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sen.aral.stream.StreamReduce" />
-      <module name="002-StreamExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sen.aral.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StreamToSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sen.aral.stream.StreamToSet" />
       <module name="002-StreamExercise" />
@@ -127,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlatMap" />
         <item itemvalue="Application.StreamFileCaseStudy" />
         <item itemvalue="Application.ParallelStream" />
         <item itemvalue="Application.StreamAvgSum" />
         <item itemvalue="Application.StreamToSet" />
-        <item itemvalue="Application.StreamReduce" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +132,9 @@
       <workItem from="1629569159581" duration="68000" />
       <workItem from="1629636030730" duration="10915000" />
       <workItem from="1629720359643" duration="3623000" />
-      <workItem from="1629755857942" duration="3736000" />
+      <workItem from="1629755857942" duration="4181000" />
+      <workItem from="1629904586165" duration="54000" />
+      <workItem from="1630000753994" duration="938000" />
     </task>
     <servers />
   </component>
