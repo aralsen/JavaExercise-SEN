@@ -46,16 +46,24 @@ public class Main {
     private static class sharedObjectClass {
         private int val = 0;
 
+        final Object lock = new Object();
+
         public void increment() {
-            val++;
+            synchronized (this.lock) {
+                val++;
+            }
         }
 
         public void decrement() {
-            val--;
+            synchronized (this.lock) {
+                val--;
+            }
         }
 
         public int getVal() {
-            return val;
+            synchronized (this.lock) {
+                return val;
+            }
         }
     }
 }
