@@ -1,10 +1,3 @@
-I worked alone on this project.
-
-Aral Sen
-asen4@binghamton.edu
-
-Java
-
 Encryption code (Client.java):
 
 private static String encryptText(String msg, PublicKey key)
