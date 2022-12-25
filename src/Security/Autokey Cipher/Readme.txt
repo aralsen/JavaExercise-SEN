@@ -1,7 +1,3 @@
-ARAL SEN (B00840458)
-asen4@binghamton.edu
-My code was tested on remote.cs.binghamton.edu. (openjdk version "18.0.2" 2022-07-19)
-
 How to execute:
 
 make -> will create a Auto.class file
