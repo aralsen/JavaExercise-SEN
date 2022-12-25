@@ -1,7 +1,3 @@
-ARAL SEN (B00840458)
-asen4@binghamton.edu
-My code was tested on remote.cs.binghamton.edu (OpenJDK 64-Bit Server VM Zulu18.32+13-CA (build 18.0.2.1+1, mixed mode, sharing) )
-
 Generating Certificates in Java: This section explains the steps I followed for generating certificates
 generate certificates for the client and the server:
 
